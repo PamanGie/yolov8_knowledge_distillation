@@ -9,9 +9,9 @@ This project implements knowledge distillation on YOLOv8 to create a smaller, mo
 ## Dataset Structure
 The dataset structure is difference with roboflow dataset. you should set the structure of your dataset like this:
 
-datasets / images / train
-datasets / images / val
-datasets / labels / train
-datasets / labels / val
+1. datasets / images / train
+2. datasets / images / val
+3. datasets / labels / train
+4. datasets / labels / val
 
 please read the readme file that I wrote on each folder, therefore you understand.
