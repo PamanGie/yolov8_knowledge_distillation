@@ -1,1 +1,12 @@
+# Replace {user_path} with your actual user path, e.g., C:/Users/your_username
+# Path to the training images folder
+train: C:/Users/{user_path}/datasets/images/train
 
+# Path to the validation images folder
+val: C:/Users/{user_path}/datasets/images/val
+
+# Number of classes
+nc: 5
+
+# Names of the classes
+names: ['Apple', 'Banana', 'Kiwi', 'Orange', 'Pear']
