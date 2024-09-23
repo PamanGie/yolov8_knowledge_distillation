@@ -15,3 +15,6 @@ The dataset structure is difference with roboflow dataset. you should set the st
 4. datasets / labels / val
 
 please read the readme file that I wrote on each folder, therefore you understand.
+
+## Known Bug
+This program is somehow repeating the training process after it ends. Therefore, after the training is complete, please close your command prompt. Please let me know if you can help fix this issue. Thanks.
