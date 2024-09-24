@@ -1,5 +1,5 @@
 # YOLOv8 Knowledge Distillation
-This project implements knowledge distillation on YOLOv8 to create a smaller, more efficient model for object detection, especially for detecting fruits. The goal is to reduce the model size while maintaining high detection accuracy.
+This project implements knowledge distillation on YOLOv8 to create a smaller, more efficient model for object detection. The goal is to reduce the model size while maintaining high detection accuracy.
 
 ## Installation
 1. Clone the repository
@@ -17,4 +17,5 @@ The dataset structure is difference with roboflow dataset. you should set the st
 please read the readme file that I wrote on each folder, therefore you understand.
 
 ## Known Bug
-This program is somehow repeating the training process after it ends. Therefore, after the training is complete, please close your command prompt. Please let me know if you can help fix this issue. Thanks.
+This program is somehow repeating the training process after it ends. Therefore, after the training is complete, please close your command prompt. 
+Please let me know if you can help fix this issue. Thanks.
